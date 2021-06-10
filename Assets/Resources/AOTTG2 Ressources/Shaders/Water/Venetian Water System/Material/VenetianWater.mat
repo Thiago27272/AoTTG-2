@@ -112,13 +112,13 @@ Material:
     - _LargeWaveDirection: 0
     - _LargeWaveSpeed: 2
     - _LargeWavesFlow: 1
-    - _LargeWavesHeight: 0.8709625
+    - _LargeWavesHeight: 0.4170583
     - _LifeDensity: 0.382
     - _LifeDepth: 0.2
     - _MediumWaveDirection: 0
     - _MediumWaveSpeed: 1
     - _MediumWavesFlow: 1
-    - _MediumWavesHeight: 0.89125
+    - _MediumWavesHeight: 0.4825
     - _MediumWavesTilling: 44.64
     - _Metallic: 0
     - _Mode: 0
@@ -131,7 +131,7 @@ Material:
     - _SmallWaveDirection: 0
     - _SmallWaveSpeed: 0.15
     - _SmallWavesFlow: 1
-    - _SmallWavesHeight: 0.5077286
+    - _SmallWavesHeight: 0.4328485
     - _SmallWavesTilling: 9.26
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -147,8 +147,8 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
-    - _LifeColor: {r: 1, g: 0, b: 1, a: 1}
-    - _WaterAbsorbedColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FoamColor: {r: 0.8306337, g: 0.9546937, b: 0.9622642, a: 0}
+    - _LifeColor: {r: 0.8901961, g: 0, b: 0.81686294, a: 1}
+    - _WaterAbsorbedColor: {r: 1, g: 0.99607843, b: 0.99215686, a: 1}
     - _WaterColor: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []

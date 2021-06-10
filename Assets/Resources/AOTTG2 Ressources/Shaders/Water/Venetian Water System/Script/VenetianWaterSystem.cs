@@ -72,6 +72,7 @@ public class VenetianWaterSystem : MonoBehaviour
     [SerializeField] public float ScatteringBrightness = 0.14f;
     private float ScatteringPower;
     private float ScatteringScale;
+    private float ScratteringBrightness;
 
 
     
