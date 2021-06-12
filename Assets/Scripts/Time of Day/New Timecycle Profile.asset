@@ -16,33 +16,33 @@ MonoBehaviour:
   maxSunlightIntensity: 1.5
   sunlightColor:
     serializedVersion: 2
-    key0: {r: 1, g: 0.76978046, b: 0.4481132, a: 0}
-    key1: {r: 1, g: 1, b: 1, a: 0.63529414}
-    key2: {r: 1, g: 1, b: 1, a: 1}
-    key3: {r: 1, g: 0.45882353, b: 0, a: 0.63529414}
-    key4: {r: 1, g: 0.45882353, b: 0, a: 0}
-    key5: {r: 1, g: 0.85490197, b: 0.63529414, a: 0}
-    key6: {r: 1, g: 0.85490197, b: 0.63529414, a: 0}
-    key7: {r: 1, g: 0.85490197, b: 0.63529414, a: 0}
-    ctime0: 13631
-    ctime1: 21845
-    ctime2: 43712
-    ctime3: 51904
-    ctime4: 51904
-    ctime5: 65535
-    ctime6: 65535
+    key0: {r: 0, g: 0, b: 0, a: 0.39215687}
+    key1: {r: 1, g: 0.8827436, b: 0.6179246, a: 1}
+    key2: {r: 0.9294118, g: 0.9960785, b: 1, a: 1}
+    key3: {r: 0.9292453, g: 0.99756014, b: 1, a: 1}
+    key4: {r: 1, g: 0.77361745, b: 0.5330188, a: 1}
+    key5: {r: 0.07450981, g: 0.015686275, b: 0, a: 1}
+    key6: {r: 0, g: 0, b: 0, a: 0.39215687}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 12288
+    ctime1: 16384
+    ctime2: 21845
+    ctime3: 40959
+    ctime4: 49151
+    ctime5: 53083
+    ctime6: 55705
     ctime7: 65535
-    atime0: 14472
-    atime1: 19114
-    atime2: 32768
-    atime3: 46399
-    atime4: 51052
-    atime5: 51904
+    atime0: 0
+    atime1: 10601
+    atime2: 11951
+    atime3: 13107
+    atime4: 17733
+    atime5: 55898
     atime6: 65535
     atime7: 65535
     m_Mode: 0
-    m_NumColorKeys: 4
-    m_NumAlphaKeys: 5
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 7
   overrideMoonlight: 1
   maxMoonlightIntensity: 0.5
   moonlightColor:
@@ -207,87 +207,33 @@ MonoBehaviour:
     - serializedVersion: 3
       time: 0.15
       value: 0.8
-      inSlope: 2.9333334
-      outSlope: 2.9333334
+      inSlope: 2.1333332
+      outSlope: 2.1333332
       tangentMode: 34
       weightedMode: 0
       inWeight: 0.33333334
       outWeight: 0.33333334
     - serializedVersion: 3
       time: 0.275
-      value: 1.7
-      inSlope: -1.7846158
-      outSlope: -1.7846158
-      tangentMode: 34
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.34
-      value: 1
-      inSlope: -5.384616
-      outSlope: 0
-      tangentMode: 65
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.34825873
-      value: 1
-      inSlope: -0
-      outSlope: 0
-      tangentMode: 69
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.3639508
-      value: 1
-      inSlope: -0
-      outSlope: 0
-      tangentMode: 69
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.41226363
-      value: 1
-      inSlope: -0
-      outSlope: 0
-      tangentMode: 69
-      weightedMode: 0
-      inWeight: 0.5925107
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.43864438
-      value: 1
-      inSlope: -0
-      outSlope: 0
-      tangentMode: 5
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.46390253
-      value: 1
-      inSlope: 0.01074401
-      outSlope: 0.01074401
+      value: 1.5
+      inSlope: 0.0009576729
+      outSlope: 0.0009576729
       tangentMode: 0
       weightedMode: 0
       inWeight: 0.33333334
-      outWeight: 0.33333334
+      outWeight: 1
     - serializedVersion: 3
-      time: 0.56234026
-      value: 1.0003965
-      inSlope: -0.00024261978
-      outSlope: -0.00024261978
-      tangentMode: 34
+      time: 0.34
+      value: 1
+      inSlope: -0.010690568
+      outSlope: 0
+      tangentMode: 65
       weightedMode: 0
-      inWeight: 0.33333334
+      inWeight: 1
       outWeight: 0.33333334
     - serializedVersion: 3
-      time: 0.6435905
-      value: 1.0000298
+      time: 0.6
+      value: 1
       inSlope: -0.0034007565
       outSlope: -0.0034007565
       tangentMode: 1
@@ -295,16 +241,7 @@ MonoBehaviour:
       inWeight: 0.33333334
       outWeight: 0.33333334
     - serializedVersion: 3
-      time: 0.66
-      value: 1.0000063
-      inSlope: -0.001692662
-      outSlope: -0.001692662
-      tangentMode: 1
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.725
+      time: 0.7
       value: 1.7
       inSlope: -0.0033698024
       outSlope: -0.0033698024
@@ -334,33 +271,33 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   overrideFog: 1
-  maxFogDensity: 0.003
+  maxFogDensity: 0.00018
   fogColor:
     serializedVersion: 2
-    key0: {r: 0, g: 0, b: 0, a: 0}
-    key1: {r: 0.3254902, g: 0.31764707, b: 0.227451, a: 0.41568628}
-    key2: {r: 0.5411765, g: 0.6313726, b: 0.7058824, a: 0.1764706}
-    key3: {r: 0, g: 0, b: 0, a: 0.15686275}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
+    key0: {r: 0, g: 0, b: 0, a: 0.39215687}
+    key1: {r: 0.68235296, g: 0.6666667, b: 0.4666667, a: 0.78431374}
+    key2: {r: 0.85098046, g: 0.94117653, b: 0.9294118, a: 0.78431374}
+    key3: {r: 0.882353, g: 0.9921569, b: 0.9960785, a: 0.39215687}
+    key4: {r: 0.6784314, g: 0.47058827, b: 0.11764707, a: 0}
+    key5: {r: 0.07450981, g: 0.015686275, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 13631
-    ctime1: 15018
-    ctime2: 16384
-    ctime3: 51904
-    ctime4: 51904
-    ctime5: 51904
-    ctime6: 51904
-    ctime7: 51904
-    atime0: 13653
-    atime1: 16384
-    atime2: 23210
-    atime3: 32768
+    ctime0: 12288
+    ctime1: 16384
+    ctime2: 21845
+    ctime3: 40959
+    ctime4: 49151
+    ctime5: 53083
+    ctime6: 55705
+    ctime7: 65535
+    atime0: 0
+    atime1: 10601
+    atime2: 55898
+    atime3: 65535
     atime4: 49151
-    atime5: 65535
+    atime5: 49151
     atime6: 52235
     atime7: 57343
     m_Mode: 0
-    m_NumColorKeys: 3
-    m_NumAlphaKeys: 5
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 4

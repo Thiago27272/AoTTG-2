@@ -60,6 +60,7 @@
     <Compile Include="Assets\PhotonChatApi\ChatDisconnectCause.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatUserStatus.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatState.cs" />
+    <Compile Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\Clouds.cs" />
     <Compile Include="Assets\PhotonChatApi\ChannelWellKnownProperties.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatClient.cs" />
     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
@@ -69,7 +70,6 @@
     <Compile Include="Assets\PhotonChatApi\ChannelCreationOptions.cs" />
     <Compile Include="Assets\Resources\AOTTG2 Ressources\Shaders\Water\Venetian Water System\Script\VenetianWaterSystem.cs" />
     <Compile Include="Assets\PhotonChatApi\ChatPeer.cs" />
-    <Compile Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\Clouds\Clouds.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Resources\shaders\Unlit - Depth Cutout.shader" />
@@ -81,7 +81,7 @@
      <None Include="Assets\Shaders\Sky System\CGInc\GPUVoronoiNoise4D.cginc" />
      <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Default\Defualt.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\Clouds\CloudsSQ.shader" />
+     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\CloudsSQ.shader" />
      <None Include="Assets\Resources\shaders\Unlit - Dynamic Font (SoftClip).shader" />
      <None Include="Assets\Resources\shaders\Unlit - Additive Colored.shader" />
      <None Include="Assets\Resources\RC Resources\RC Shaders\No Render.shader" />
@@ -105,7 +105,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\Clouds\CloudsHQ.shader" />
+     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\CloudsHQ.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
      <None Include="Assets\Ui\Icons\FontAwesome\LICENSE.txt" />
      <None Include="Assets\Resources\shaders\Unlit - Transparent Colored Overlay.shader" />
@@ -116,7 +116,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\Shaders\TintedUIBlur.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\Clouds\CloudsLQ.shader" />
+     <None Include="Assets\Resources\AOTTG2 Ressources\Shaders\Clouds\CloudsLQ.shader" />
      <None Include="Assets\Shaders\xft_displacement_screen.shader" />
      <None Include="Assets\Shaders\3d text.shader" />
      <None Include="Assets\Resources\shaders\Unlit - Transparent Colored (Packed) (SoftClip).shader" />
