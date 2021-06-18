@@ -371,6 +371,45 @@ namespace Assets.Scripts.Room
                     },
                 }
             });
+
+            _levels.Add(new Level
+            {
+                Name = "Trost revamped",
+                Description = "A revamped version of the classic trost map, with true to anime graphics and layout",
+                SceneName = "Trost-Revamp",
+                Gamemodes = new List<GamemodeSettings>
+                {
+                    new KillTitansSettings
+                    {
+                        Time = new TimeSettings
+                        {
+                            CurrentTime = 7,
+                            DayLength = 3000,
+                            Pause = false,
+                        },
+                    },
+                    
+                    new EndlessSettings
+                    {
+                        Time = new TimeSettings
+                        {
+                            CurrentTime = 8,
+                            DayLength = 3000,
+                            Pause = false,
+                        },
+                    },
+                    new WaveGamemodeSettings
+                    {
+                        Time = new TimeSettings
+                        {
+                            CurrentTime = 9,
+                            DayLength = 3000,
+                            Pause = false,
+                        },
+                    },
+                }
+            });
         }
+        
     }
 }
