@@ -271,7 +271,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   overrideFog: 1
-  maxFogDensity: 0.00015
+  maxFogDensity: 0.0001
   fogColor:
     serializedVersion: 2
     key0: {r: 0, g: 0, b: 0, a: 0.39215687}

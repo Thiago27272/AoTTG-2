@@ -316,8 +316,8 @@
     <Compile Include="Assets\Scripts\UI\Radial\RadialItem.cs" />
     <Compile Include="Assets\Scripts\Characters\Humans\Customization\Components\HumanComponent.cs" />
     <Compile Include="Assets\Scripts\Items\Flare.cs" />
-    <Compile Include="Assets\Scripts\Characters\Humans\Skills\Skill.cs" />
     <Compile Include="Assets\Scripts\Events\FactionEvents.cs" />
+    <Compile Include="Assets\Scripts\Characters\Humans\Skills\Skill.cs" />
     <Compile Include="Assets\Scripts\UI\InGame\ServerSettingsPage.cs" />
     <Compile Include="Assets\Scripts\Effects\UVAffector.cs" />
     <Compile Include="Assets\Scripts\Characters\Humans\ParentFollow.cs" />
