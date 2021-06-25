@@ -30,6 +30,7 @@ namespace Assets.Scripts.Characters.Titan
         private float desDeg;
         private int nextUpdate = 1;
         private float attackCooldown;
+        private float attackDelay;
         private float staminaLimit;
 
         private float FocusTimer { get; set; }
@@ -742,6 +743,13 @@ namespace Assets.Scripts.Characters.Titan
                 SetState(TitanState.Chase);
                 return;
             }
+
+            if (attackDelay > 0)
+            {
+                attackDelay -= Time.deltaTime;
+                return;
+            }
+
             CurrentAttack.Execute();
         }
 
@@ -780,6 +788,7 @@ namespace Assets.Scripts.Characters.Titan
             if (availableAttacks.Length > 0)
             {
                 CurrentAttack = availableAttacks[Random.Range(0, availableAttacks.Length)];
+                attackDelay = 0.5f;
                 SetState(TitanState.Attacking);
             }
             else
