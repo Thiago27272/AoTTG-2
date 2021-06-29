@@ -80,8 +80,8 @@ Material:
     - _CloudDensity: 2.37
     - _CloudRoundness: 1.2
     - _CloudRoundness1: 1.2
-    - _CloudSize: 0.073
-    - _CloudSoftness: 0.537
+    - _CloudSize: 0.108
+    - _CloudSoftness: 0.74399996
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailShapeSpeed: 2
