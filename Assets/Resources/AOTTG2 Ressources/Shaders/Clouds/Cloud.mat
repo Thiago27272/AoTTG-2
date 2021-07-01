@@ -77,11 +77,11 @@ Material:
     - _Blend: 0
     - _BumpScale: 1
     - _ClippingSmoothness: 4.81
-    - _CloudDensity: 2.37
+    - _CloudDensity: 4.35
     - _CloudRoundness: 1.2
     - _CloudRoundness1: 1.2
-    - _CloudSize: 0.108
-    - _CloudSoftness: 0.74399996
+    - _CloudSize: 0.083
+    - _CloudSoftness: 0.558
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailShapeSpeed: 2
@@ -112,7 +112,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _WeatherSize: 0.169
+    - _WeatherSize: 0.154
     - _WeatherSoftness: 0.34
     - _Weathertilling: 95780.75
     - _Weathervariationspeed: 10

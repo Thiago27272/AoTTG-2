@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 112826000000557110}
   - component: {fileID: 8705221959984082557}
   - component: {fileID: 9003764737120930848}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cubelod1lod1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 4066955131361987240}
   - component: {fileID: 8633011577388521164}
   - component: {fileID: 8242291648805364384}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Cubelod1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -268,7 +268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8942683048630962189}
   - component: {fileID: 4314381161476595161}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_Modular
   m_TagString: Untagged
   m_Icon: {fileID: 0}

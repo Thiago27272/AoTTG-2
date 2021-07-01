@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9156877865857173118}
   - component: {fileID: 9122003439760065331}
   - component: {fileID: 4653606726086634612}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2261630768995168790}
   - component: {fileID: 7874711127431125298}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Wall_Gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 1651457543207260217}
   - component: {fileID: 3279409995818334793}
   - component: {fileID: 2326627017793364574}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: gatelod1lod1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -249,7 +249,7 @@ GameObject:
   - component: {fileID: 6207575742678348555}
   - component: {fileID: 8233095181165887253}
   - component: {fileID: 8829258345386043376}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: gatelod1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
