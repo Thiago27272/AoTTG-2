@@ -77,11 +77,11 @@ Material:
     - _Blend: 0
     - _BumpScale: 1
     - _ClippingSmoothness: 4.81
-    - _CloudDensity: 4.35
+    - _CloudDensity: 2.31
     - _CloudRoundness: 1.2
     - _CloudRoundness1: 1.2
     - _CloudSize: 0.083
-    - _CloudSoftness: 0.558
+    - _CloudSoftness: 0.654
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailShapeSpeed: 2
